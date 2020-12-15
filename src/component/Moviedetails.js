@@ -10,7 +10,7 @@ class Moviedetails extends React.Component {
       return (
         <div>
           <h1>
-            <Link to={"/"}>Click on Home to continue</Link>
+            <Link to={"/"}>Click on Here to continue</Link>
           </h1>
         </div>
       );
