@@ -29,7 +29,7 @@ class header extends Component {
           <div className="nav-links">
             <p className="nav-linkss">
               <span className="l1">
-                <a href="/">Home</a>
+                <Link to={"/"}>Home</Link>
               </span>
 
               <span className="qwality">4K</span>
